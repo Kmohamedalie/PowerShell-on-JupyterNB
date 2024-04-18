@@ -1,2 +1,2 @@
-# power_shell-on-JupyterNB
-Power  shell commands on Jupyter notebook
+# PowerShell on Jupyternotebook
+Running Power  shell commands on Jupyter notebook, run simple directory and networking commands.
